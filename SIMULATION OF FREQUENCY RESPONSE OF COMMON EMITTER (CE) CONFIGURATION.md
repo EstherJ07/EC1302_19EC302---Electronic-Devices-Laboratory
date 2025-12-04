@@ -1,5 +1,5 @@
 # SIMULATION OF FREQUENCY RESPONSE OF COMMON EMITTER (CE) CONFIGURATION
-
+## DATE : 20/09/2025
 ## AIM:
 To design and simulate the frequency response of a common emitter configuration circuit using LT-Spice.
 
