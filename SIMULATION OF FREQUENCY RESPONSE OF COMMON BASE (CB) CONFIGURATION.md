@@ -1,5 +1,5 @@
 # SIMULATION OF FREQUENCY RESPONSE OF COMMON BASE (CB) CONFIGURATION
-
+## DATE : 20/09/2025
 ## AIM:
 To design and simulate the frequency response of a common base configuration circuit using LT-Spice.
 
