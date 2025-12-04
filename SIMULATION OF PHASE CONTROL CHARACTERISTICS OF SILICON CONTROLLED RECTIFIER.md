@@ -1,5 +1,5 @@
 # SIMULATION OF PHASE CONTROL CHARACTERISTICS OF SILICON CONTROLLED RECTIFIER
-
+## DATE :11/10/2025
 ## AIM:
 To design and simulate the phase control characteristics of SCR circuit using LT-Spice.
 
