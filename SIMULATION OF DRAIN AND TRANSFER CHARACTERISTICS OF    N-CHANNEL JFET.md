@@ -1,5 +1,5 @@
 # SIMULATION OF DRAIN AND TRANSFER CHARACTERISTICS OF N-CHANNEL JFET
-
+## DATE : 04/10/2025
 ## AIM:
 To design and simulate the drain and transfer characteristics of N-channel JFET circuit using LT-Spice.
 
