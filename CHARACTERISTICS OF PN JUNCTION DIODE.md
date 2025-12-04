@@ -1,5 +1,5 @@
 # CHARACTERISTICS OF PN JUNCTION DIODE
-
+## DATE : 30/08/2025
 ## AIM: 
 
  To plot the V-I characteristics of PN junction diode. 
