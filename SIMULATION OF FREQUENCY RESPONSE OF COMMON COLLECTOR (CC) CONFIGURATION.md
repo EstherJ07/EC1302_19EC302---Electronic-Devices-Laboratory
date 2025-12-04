@@ -1,5 +1,5 @@
 # SIMULATION OF FREQUENCY RESPONSE OF COMMON COLLECTOR (CC) CONFIGURATION
-
+## DATE : 27/09/2025
 ## AIM:
 To design and simulate the frequency response of a common collector configuration circuit using LT-Spice.
 
