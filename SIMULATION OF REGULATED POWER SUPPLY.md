@@ -1,5 +1,5 @@
 # SIMULATION OF REGULATED POWER SUPPLY
-
+## DATE : 1/11/2025
 ## AIM:
 To design and simulate the a complete AC to DC power supply using LTspice consisting of a transformer, bridge rectifier, smoothing capacitor, Zener diode voltage regulator and load, and to observe the output waveform at each stage.
 
