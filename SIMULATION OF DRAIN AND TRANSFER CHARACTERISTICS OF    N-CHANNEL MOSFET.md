@@ -1,5 +1,5 @@
 # SIMULATION OF DRAIN AND TRANSFER CHARACTERISTICS OF N-CHANNEL MOSFET
-
+## DATE : 27/09/2025
 ## AIM:
  To design and simulate the drain and transfer characteristics of N-channel MOSFET circuit using LT-Spice.
 
