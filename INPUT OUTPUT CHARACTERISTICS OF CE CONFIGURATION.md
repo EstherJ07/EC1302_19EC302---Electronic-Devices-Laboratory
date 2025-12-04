@@ -1,5 +1,5 @@
 # INPUT OUTPUT CHARACTERISTICS OF CE CONFIGURATION
-
+## DATE : 04/10/2025
 ## AIM: 
 
  To Plot the input and output characteristics of the transistor in CE mode, to determine the h - Parameters from the graph. 
