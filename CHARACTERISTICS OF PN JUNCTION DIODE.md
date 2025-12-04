@@ -17,13 +17,13 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
-![WhatsApp Image 2025-11-23 at 16 33 45_2e1e3f56](https://github.com/user-attachments/assets/5a43c2d0-fc57-4056-ac2a-bd011e23b3af)
+![WhatsApp Image 2025-12-04 at 14 47 44_bbe84b66](https://github.com/user-attachments/assets/daf991a6-b068-4190-a36d-bfa9e7dcc6f3)
 
 ## REVERSE BIAS:
-![WhatsApp Image 2025-11-23 at 16 33 44_d611327b](https://github.com/user-attachments/assets/9fa3c993-7b63-4c1b-a710-30144d7a45e1)
+![WhatsApp Image 2025-12-04 at 14 48 01_9c872809](https://github.com/user-attachments/assets/de7271a9-8378-4103-b5a3-71f98f0b2d23)
 
 ## MODEL GRAPH:
-![WhatsApp Image 2025-11-23 at 16 33 44_0fa97ef0](https://github.com/user-attachments/assets/ec0e69ad-064e-466b-8b73-d4a50d91b9f6)
+![WhatsApp Image 2025-12-04 at 14 48 16_ea9b5792](https://github.com/user-attachments/assets/c2423c7d-70b3-4ebc-a3dc-086a923784f5)
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -51,13 +51,13 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
-![WhatsApp Image 2025-11-23 at 16 36 45_69d8b405](https://github.com/user-attachments/assets/77860680-4746-46c9-a5b8-3e41d85247a0)
+![WhatsApp Image 2025-12-04 at 14 48 33_02463b62](https://github.com/user-attachments/assets/767a03c8-40d2-4b7e-966c-6d03dcb65a2c)
 
 ## CALCULATIONS:
-![WhatsApp Image 2025-11-23 at 16 37 27_3831ff6e](https://github.com/user-attachments/assets/7f237a2a-7188-479b-86b4-98f32ac7d9a8)
+![WhatsApp Image 2025-12-04 at 14 48 47_435ecb56](https://github.com/user-attachments/assets/54c88e77-cbec-470e-af5d-f3e231522579)
 
 ## GRAPH:
-![WhatsApp Image 2025-11-23 at 16 40 23_a793e65d](https://github.com/user-attachments/assets/96ec7103-d9f1-4b26-8d40-3a8fb2233d98)
+![WhatsApp Image 2025-12-04 at 14 49 19_dcbc4f1b](https://github.com/user-attachments/assets/a3cb8ba8-b232-4886-b50f-a9f6448fb206)
 
  ## RESULTS:
  1. Forward resistance of PN diode     = 20 ohm
