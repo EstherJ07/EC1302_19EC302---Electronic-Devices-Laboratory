@@ -1,5 +1,5 @@
 # CHARACTERISTICS OF ZENER DIODE
-
+## DATE : 06/09/2025
 ## AIM: 
 
  To plot the V-I characteristics of ZENER diode. 
