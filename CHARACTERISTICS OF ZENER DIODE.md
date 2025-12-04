@@ -1,4 +1,4 @@
-# CHARACTERISTICS OF ZENER DIODE
+![WhatsApp Image 2025-12-04 at 14 55 44_ff2b756b](https://github.com/user-attachments/assets/196b8278-5cb7-4d2a-8f5e-0e2b703bedfa)# CHARACTERISTICS OF ZENER DIODE
 ## DATE : 06/09/2025
 ## AIM: 
 
@@ -15,13 +15,13 @@
 The diodes, which are designed to operate in the breakdown region, are called the Zener diode. The other name is AVALANCHE diode. There are two types of breakdown in these diodes they are Avalanche and Zener breakdown. In avalanche breakdown the, conduction in reverse bias is due to avalanche multiplication of charge carrier. In Zener diode is breakdown is due to direct rupture of covalent bonds because of strong electric field. The actual intensity of the electric field strength that produces Zener breakdown voltage. Avalanche breakdowns will have higher breakdown voltages from several volts to several hundred volts.
 ## CIRCUIT DIAGRAM: 
 ## FORWARD BIAS:
-![WhatsApp Image 2025-11-23 at 16 45 09_c8c56923](https://github.com/user-attachments/assets/b7b4b7dc-5548-45e7-bc57-d9fa30405f2a)
+![WhatsApp Image 2025-12-04 at 14 53 54_973c53ad](https://github.com/user-attachments/assets/80ee3faa-c5aa-44b1-b760-68001d1e4e3a)
 
 ## REVERSE BIAS:
-![WhatsApp Image 2025-11-23 at 16 45 51_49c3d52a](https://github.com/user-attachments/assets/4ce1525a-c55d-4d67-b874-c54f969f24e6)
+![WhatsApp Image 2025-12-04 at 14 54 09_8c81c51a](https://github.com/user-attachments/assets/02beb777-72f3-4009-88eb-9b319ea29446)
 
 ## MODEL GRAPH:
-![WhatsApp Image 2025-11-23 at 16 46 25_5281deb0](https://github.com/user-attachments/assets/bc95f859-4080-4a90-baaf-91e5a2e6a9ed)
+![WhatsApp Image 2025-12-04 at 14 54 26_6d6a1d4c](https://github.com/user-attachments/assets/38981a77-8cab-4d53-bc9c-48040d6e9d5e)
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -47,13 +47,13 @@ The diodes, which are designed to operate in the breakdown region, are called th
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
-![WhatsApp Image 2025-11-23 at 16 47 30_ab9c28c9](https://github.com/user-attachments/assets/80c85cb7-4fed-44ea-8146-0b79666a30e8)
+![WhatsApp Image 2025-12-04 at 14 54 52_9729be95](https://github.com/user-attachments/assets/a5790a83-d8ca-4b57-8bde-d6a1ff41abd1)
 
 ## CALCULATIONS:
-![WhatsApp Image 2025-11-23 at 16 47 58_b5060015](https://github.com/user-attachments/assets/7ea436f6-d860-4fae-9dcc-0ca7a69f6d69)
+![WhatsApp Image 2025-12-04 at 14 55 03_6e6703fb](https://github.com/user-attachments/assets/3ed643ec-44bb-4632-88f3-77e1dfccd455)
 
 ## GRAPH:
-![WhatsApp Image 2025-11-23 at 16 49 24_d24b721c](https://github.com/user-attachments/assets/9590e69b-631d-4bb2-b79b-5c91639d3bd6)
+![WhatsApp Image 2025-12-04 at 14 55 44_ff2b756b](https://github.com/user-attachments/assets/3e1f2018-bdde-4de2-8a41-3f96da56d76c)
 
  ## RESULT:
  Thus the Zener diode characteristics were studied.
