@@ -1,5 +1,5 @@
 # RESISTOR COLOUR CODE
-
+## DATE : 09/08/2025
 ## AIM: 
 
 To learn Resistor Colour Code and to determine the stated value of a resistor by interpreting the colour code indicated on the resistor. 
